@@ -19,9 +19,6 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
-
-  // Alhaji, Add spacing to the top...... where pls?.... pls let send like that... i dont have much time ooo
-
 var temp;
 var description;
 var currently;

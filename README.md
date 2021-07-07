@@ -1,6 +1,8 @@
-# flutter_application_1
+# Flutter Weather App
 
 A new flutter module project.
+
+![weather app showcase](/images/img.jpg)
 
 ## Getting Started
 
